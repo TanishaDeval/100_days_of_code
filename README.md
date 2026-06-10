@@ -1,6 +1,6 @@
 # 100_days_of_code
 # WELCOME
-In this repository , I upload my daily practice projects nwhilelearning Python🐍.
+In this repository , I upload my daily practice projects while learning Python🐍.
 
 # Projects completed
 01_Band Name Generator
