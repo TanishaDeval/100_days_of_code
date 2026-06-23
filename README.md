@@ -11,8 +11,9 @@ In this repository , I upload my daily practice projects while learning PythonðŸ
 06_Treasure island
 07_Rock paper scissor game
 08_Password generator
-09_Hangman game.py
-10_Caesar Cipher.py
+09_Hangman game
+10_Caesar Cipher
+11_Secret_Auction
 
 # Goal
 To improve my Python programming skills.
